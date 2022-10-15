@@ -7,4 +7,6 @@
 
 ### [Introdução ao Git e ao GitHub](1.onboarding/git-github.md)
 
+### [Tipos de Dados e Modo Interativo](2.python/tipo&interativo.md)
+
 ### [Operadores em Python](2.python/operadores.md)
