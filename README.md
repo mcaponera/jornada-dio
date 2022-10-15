@@ -6,3 +6,5 @@
 ### [Introdução à Programação e Pensamento Computacional](1.onboarding/pense-cmpt.md)
 
 ### [Introdução ao Git e ao GitHub](1.onboarding/git-github.md)
+
+### [Operadores em Python](2.python/operadores.md)
