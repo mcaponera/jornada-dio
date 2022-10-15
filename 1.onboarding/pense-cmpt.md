@@ -50,6 +50,7 @@ Pode ser **linear**, **estruturada** ou ❤️ **modular** ❤️.
 ### Fundamentos dos Algoritmos
 
 <details><summary>📂 Dados</summary>
+
 Podem ser **mutáveis** ou **imutáveis**. Uma variável pode assumir um valor, um conjunto de valores ou uma expressão. São 3 os tipos:
 
 - Numéricos;
@@ -62,6 +63,7 @@ Podem ser **mutáveis** ou **imutáveis**. Uma variável pode assumir um valor, 
 </details>
 
 <details><summary>✏️ Instruções</summary>
+
 - Operadores 
     - Primitivos
         - Unários
@@ -77,7 +79,8 @@ Podem ser **mutáveis** ou **imutáveis**. Uma variável pode assumir um valor, 
     - Condição Satisfeita
 </details>
 
-<details><summary>⚙️ Funções<details><summary>
+<details><summary>⚙️ Funções</summary>
+
 Instruções que realizam tarefas específicas (modularização). Tem um nome, uma definição, variáveis locais e podem ser invocadas a qualquer momento.
 </details>
 
