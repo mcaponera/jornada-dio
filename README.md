@@ -1,5 +1,5 @@
 # 🚀 Registro dos Aprendizados 
-### Bootcamp Dio Ciência de Dados UNIMED-BH
+## Bootcamp Dio Ciência de Dados UNIMED-BH
 
  📓 Repositório com anotações dos cursos feitos durante o bootcamp. Uma maneira de fixar e praticar os conteúdos.
 
@@ -18,3 +18,5 @@
 ### [Operadores em Python](2.python/operadores.md)
 
 ### [Estruturas Condicionais e de Repetição](2.python/cond-rep.md)
+
+### [Manipulação de String](2.python/strings.md)
