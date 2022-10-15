@@ -9,4 +9,6 @@
 
 ### [Tipos de Dados e Modo Interativo](2.python/tipo&interativo.md)
 
+### [Variáveis e Constantes](2.python/var-const.md)
+
 ### [Operadores em Python](2.python/operadores.md)
