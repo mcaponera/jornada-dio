@@ -20,3 +20,9 @@
 ### [Estruturas Condicionais e de Repetição](2.python/cond-rep.md)
 
 ### [Manipulação de String](2.python/strings.md)
+
+### [Listas](2.python/estrut-dados-list.md)
+
+### [Tuplas](2.python/estrut-dados-tuples.md)
+
+### [Sets](2.python/conjuntos.md)
