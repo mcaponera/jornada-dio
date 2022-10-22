@@ -26,3 +26,7 @@
 ### [Tuplas](2.python/estrut-dados-tuples.md)
 
 ### [Sets](2.python/conjuntos.md)
+
+### [Dicionários](2.python/dicionarios.md)
+
+### [Funções](2.python/funcoes.md)
